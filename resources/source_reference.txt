@@ -1,0 +1,9 @@
+Source Reference
+
+
+unbiased.com. (2026, February, 1). What is the average rent price for a one-bedroom apartment? https://www.unbiased.com/discover/banking/average-1-bedroom-apartment-rent#What-does-it-cost-to-rent-an-apartment-in-the-US
+
+WV was not included in the unbiased.com (2026) report
+Data for WV used by copilot which referenced Apartments.com who referenced, CoStar's Professionally managed property dataset, for the value.				
+				
+ 
